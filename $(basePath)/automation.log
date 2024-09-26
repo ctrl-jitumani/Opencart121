@@ -1,0 +1,37 @@
+00:48:27.773 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:30.035 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:48:30.066 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:32.119 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:34.270 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:36.181 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:38.325 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:49:40.808 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:51:23.361 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+00:51:28.865 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:51:31.190 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:51:31.223 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:51:33.452 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:51:35.781 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:51:38.238 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:51:40.355 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:52:23.112 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+00:52:28.438 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:52:30.462 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:52:30.497 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:52:32.441 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:52:34.469 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:52:36.300 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:52:38.101 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+01:13:13.054 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+01:13:15.407 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+01:13:15.431 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+01:13:17.347 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+01:13:19.362 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+01:13:21.440 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+01:13:23.430 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****

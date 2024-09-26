@@ -1,0 +1,70 @@
+22:24:28.347 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\src\test\java\grouping.xml
+
+22:28:22.535 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+22:28:28.934 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+22:28:30.719 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+22:28:30.746 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+22:28:32.838 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+22:28:35.033 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+22:28:37.106 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+22:28:38.954 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+22:30:25.775 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+23:02:40.536 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:25:50.399 [main] %-Slevel testCases.TC002_LoginTest - ***** Starting TC_OO2_LoginTest *****
+00:25:52.325 [main] %-Slevel testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+00:27:09.535 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:31:41.654 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+00:31:45.733 [main] %-Slevel testCases.TC002_LoginTest - ***** Starting TC_OO2_LoginTest *****
+00:31:46.280 [main] %-Slevel testCases.TC002_LoginTest - ****** login clicked *********
+00:31:47.424 [main] %-Slevel testCases.TC002_LoginTest - ****** login page showed or not
+00:31:47.476 [main] %-Slevel testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+00:33:39.563 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:36:05.477 [main] %-Slevel testCases.TC002_LoginTest - ***** Starting TC_OO2_LoginTest *****
+00:36:06.101 [main] %-Slevel testCases.TC002_LoginTest - ****** login clicked *********
+00:36:07.124 [main] %-Slevel testCases.TC002_LoginTest - ****** login page showed or not
+00:36:07.188 [main] %-Slevel testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+00:36:49.905 [main] %-Slevel testCases.TC002_LoginTest - ***** Starting TC_OO2_LoginTest *****
+00:36:50.516 [main] %-Slevel testCases.TC002_LoginTest - ****** login clicked *********
+00:36:51.615 [main] %-Slevel testCases.TC002_LoginTest - ****** login page showed or not
+00:36:51.697 [main] %-Slevel testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+00:37:55.832 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+00:38:01.159 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:38:03.447 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:38:03.486 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:38:05.713 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:38:08.154 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:38:10.635 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:38:12.827 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:39:02.529 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:42:32.934 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\crossbrowsertesting.xml
+
+00:44:49.740 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
+00:44:55.288 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:44:57.837 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003 ended *****
+00:44:57.872 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:45:00.536 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:45:00.562 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:45:00.583 [main] %-Slevel testCases.TC003_LoginDataDrivenTest - ***** TC003_LoginDDTtestStarted *****
+00:48:22.393 [main] %-Slevel org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\thaku\eclipse-workspace\Opencart121\master.xml
+
